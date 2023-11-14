@@ -1,0 +1,27 @@
+# Install Python and pip 
+# when in ssh.cloud.google.com type the following in the terminal:
+sudo apt-get install update
+
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+sudo apt-get install wget
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python3 get-pip.py
+
+
+# Install Mage
+sudo pip3 install mage-ai
+
+# Install Pandas
+sudo pip3 install pandas
+
+https://storage.googleapis.com/uber-data-engineering-project-zhvner/uber_data.csv
+
+# Install Google Cloud Library
+sudo pip3 install google-cloud
+
+sudo pip3 install google-cloud-bigquery
