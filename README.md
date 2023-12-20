@@ -29,7 +29,8 @@ Contribute to this open-source project on GitHub: [mage-ai/mage-ai](https://gith
 The project utilizes the TLC Trip Record Data, which includes yellow and green taxi trip records. The dataset captures various details such as pick-up and drop-off dates/times, locations, distances, fares, rate types, payment types, and passenger counts.
 
 ## Dataset Model
-[Uber_DataModel (1).pdf](https://github.com/zhvner/uber-data-engineering-project/files/13731300/Uber_DataModel.1.pdf)
+<img width="702" alt="Screenshot 2023-12-20 at 11 12 49" src="https://github.com/zhvner/uber-data-engineering-project/assets/85496297/5cb2efa7-21fe-4bc9-a43a-829b014f5b4b">
+
 
 
 - **Dataset Source:** [Uber ETL Pipeline Data Engineering Project - Data](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv)
