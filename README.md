@@ -11,6 +11,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 The project architecture involves the use of the following technologies:
 
+
 - **Google Cloud Platform Components:**
   - Google Storage
   - Compute Instance
@@ -26,6 +27,10 @@ Contribute to this open-source project on GitHub: [mage-ai/mage-ai](https://gith
 ## Dataset Used
 
 The project utilizes the TLC Trip Record Data, which includes yellow and green taxi trip records. The dataset captures various details such as pick-up and drop-off dates/times, locations, distances, fares, rate types, payment types, and passenger counts.
+
+## Dataset Model
+[Uber_DataModel (1).pdf](https://github.com/zhvner/uber-data-engineering-project/files/13731300/Uber_DataModel.1.pdf)
+
 
 - **Dataset Source:** [Uber ETL Pipeline Data Engineering Project - Data](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv)
 
